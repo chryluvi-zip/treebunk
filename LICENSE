@@ -1,0 +1,16 @@
+Copyright (c) 2026 Angelica. All rights reserved.
+
+Treebunk, including its source code, built files, design and artwork
+arrangement, is proprietary. No licence is granted to anyone to copy,
+reproduce, modify, distribute, publish, sublicense, sell, or otherwise use
+any part of it, for commercial or non-commercial purposes, without prior
+written permission from the copyright holder.
+
+Being able to view, download or run Treebunk, for example on its website,
+in a web browser, or as an installed app, does not grant any of those rights.
+
+Third-party components keep their own licences:
+- The fonts Mali and Nunito are licensed under the SIL Open Font License 1.1.
+- The open-source libraries listed in package.json are licensed under their
+  own terms.
+- The illustrations belong to their respective artists.
